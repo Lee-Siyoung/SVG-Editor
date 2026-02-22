@@ -2,7 +2,7 @@
 
 A lightweight, browser-based SVG editor — no installation, no sign-up required.
 
-**[Live Demo →](https://createtosvg.netlify.app)**
+**Live Demo →[https://createtosvg.netlify.app](https://createtosvg.netlify.app)**
 
 ---
 
@@ -21,7 +21,9 @@ A lightweight, browser-based SVG editor — no installation, no sign-up required
 
 ## Screenshots
 
-> *(Add screenshots here)*
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/6a99f63e-08aa-45ca-b683-173a4fa62a98" />
+
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/e4d2d38a-4502-42e9-a29e-0aefce5cb3f7" />
 
 ---
 
@@ -48,8 +50,6 @@ A lightweight, browser-based SVG editor — no installation, no sign-up required
 | `E` | Ellipse |
 | `L` | Line |
 | `G` | Polygon |
-| `Ctrl+Z` | Undo |
-| `Ctrl+Y` | Redo |
 | `Space + drag` | Pan |
 | `Mouse wheel` | Zoom |
 
