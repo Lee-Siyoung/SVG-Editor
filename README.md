@@ -15,7 +15,7 @@ A lightweight, browser-based SVG editor — no installation, no sign-up required
 - **SVG code editor** — View and edit raw SVG code directly
 - **Undo / Redo** — Full history support
 - **Grid & Zoom** — Toggle grid, zoom in/out, pan with hand tool
-- **Multilingual** — Korean, English, Japanese, Chinese
+- **Multilingual** — Korean (한국어) · English · Japanese (日本語) · Chinese (中文)
 
 ---
 
